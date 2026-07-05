@@ -67,19 +67,9 @@ Institute of Technical Education & Research (ITER), SOA University | DSA Enthusi
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nikita302005&theme=onestar&no-frame=true"/>
-</p>
-
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-
----
-
 ## Certifications
 
-- No certifications mentioned in the resume.
+- Getting Started with Artificial Intelligence — IBM
 
 ---
 
